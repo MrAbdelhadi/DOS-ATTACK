@@ -7,5 +7,5 @@ Among the tools used is # DosPhen
 ![Capture d’écran 2024-03-11 162730](https://github.com/MrAbdelhadi/DOS-ATTACK/assets/162979695/294cbcc4-1cde-4e50-a133-5ec7104db8ba)
 
 # command
-'''bash
+```bash
 python DosPhen.py --host www.domain.com --port 80
